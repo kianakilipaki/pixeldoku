@@ -1,0 +1,16 @@
+{
+  "name": "pixeldoku",
+  "version": "1.0.0",
+  "description": "A simple Sudoku game built with HTML, CSS, and JavaScript.",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead"
+}

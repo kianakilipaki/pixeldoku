@@ -12,11 +12,12 @@
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
-
+*.parcel*
 # Mono auto generated files
 mono_crash.*
 
 # Build results
+dist/
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
